@@ -1,3 +1,5 @@
+![[Air Quality Index](aqi-cover.jpg)](https://raw.githubusercontent.com/gvfcom/air-quality-index/main/aqi-cover.png)
+
 # Air Quality Index
 
 This streamlit web app provides AQI visualization from data in a CSV file.
