@@ -1,0 +1,37 @@
+City,Date,AQI
+New York,2022-01-01,42
+New York,2022-02-01,36
+New York,2022-03-01,52
+New York,2022-04-01,60
+New York,2022-05-01,66
+New York,2022-06-01,74
+New York,2022-07-01,84
+New York,2022-08-01,82
+New York,2022-09-01,72
+New York,2022-10-01,64
+New York,2022-11-01,54
+New York,2022-12-01,46
+Los Angeles,2022-01-01,63
+Los Angeles,2022-02-01,57
+Los Angeles,2022-03-01,74
+Los Angeles,2022-04-01,88
+Los Angeles,2022-05-01,98
+Los Angeles,2022-06-01,102
+Los Angeles,2022-07-01,107
+Los Angeles,2022-08-01,108
+Los Angeles,2022-09-01,98
+Los Angeles,2022-10-01,85
+Los Angeles,2022-11-01,70
+Los Angeles,2022-12-01,60
+Chicago,2022-01-01,34
+Chicago,2022-02-01,28
+Chicago,2022-03-01,46
+Chicago,2022-04-01,58
+Chicago,2022-05-01,63
+Chicago,2022-06-01,68
+Chicago,2022-07-01,74
+Chicago,2022-08-01,73
+Chicago,2022-09-01,65
+Chicago,2022-10-01,56
+Chicago,2022-11-01,46
+Chicago,2022-12-01,39
